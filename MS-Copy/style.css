@@ -1,0 +1,35 @@
+span {
+  display: inline-block;
+}
+
+#left-header{
+  display:inline;
+  text-align: left;
+  padding-left: 0%;
+}
+
+#right-header {
+  display: inline;
+  text-align-last: right;
+  padding-right: 0%;
+}
+
+li {
+  display: inline;
+}
+
+#pic {
+  text-align: center;
+}
+
+#icons {
+  text-align: center;
+}
+
+#mini-layout {
+  text-align: center;
+}
+
+#ms-logo {
+  width: 120px;
+}
